@@ -1,6 +1,5 @@
 ### Hi there!
 I'm Axyvii, a 15 year old from Poland trying to learn how to code!
-###### (psst.. I'm a 🏳️‍⚧️ she/her!)
 
 #### Currently learning/using:
 - using C# (Basic knowledge, .NET Framework),
